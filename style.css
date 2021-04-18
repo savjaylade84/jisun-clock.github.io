@@ -6,6 +6,10 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+@media screen and (max-width:767px){
+  html{display:none;} 
+}
+
 body{
   display:grid;
   justify-content:center;
