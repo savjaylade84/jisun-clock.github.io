@@ -1,3 +1,6 @@
+
+alert('use desktop view to see the exact design');
+
 (function chrono(){
   
   function checkTime(time){
@@ -16,7 +19,7 @@
       startTime();
     },500);
     
-    
+
   } 
   startTime();
 })();
